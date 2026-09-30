@@ -1,74 +1,82 @@
 <div align="center">
 
-  <!-- 1. Waving Twinkling Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=220&section=header&text=NICK%20XBT&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <!-- Waving Twinkling Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=200&section=header&text=NICK%20XBT&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
-  <br/>
+  <br/><br/>
 
-  <!-- 2. Connected Animation Row: Red Cat + Minecraft Steve + Chrome Dino -->
+  <!-- 1. Hacker Terminal Animation Showcase (Spells NICK in 3D Green Figlet Blocks) -->
+  <img src="./hello_terminal_animated.svg" width="620" alt="Hacker Terminal Animation NICK" />
+
+  <br /><br />
+
+  <!-- Connected Animation Row: Red Cat + Minecraft Steve + Chrome Dino -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3lsbWRidW1oYmxuYzRsMXh6NXhsd3UybHJldnN1eTNmdm9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="120" alt="Pixel Cat Animation"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3lsbWRidW1oYmxuYzRsMXh6NXhsd3UybHJldnN1eTNmdm9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="110" alt="Pixel Cat Animation"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="220" alt="Minecraft Steve Walking Animation"/>
+    <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="200" alt="Minecraft Steve Walking Animation"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="Chrome Dinosaur Walking"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="110" alt="Chrome Dinosaur Walking"/>
   </p>
 
-  <br/>
+  <br />
 
-  <!-- 3. Green Dynamic Typing SVG -->
+  <!-- 2. Typing SVG: Hacker Terminal Style (Green VT323 Font) -->
   <a href="https://github.com/NickXBT">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+NickXBT+GitHub+Profile+Connected;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=_System.Initialize(NickXBT);_Run.Protocol(AI_Agents_%2B_Robotics);_Activating.ScanShield_VibeShield...;_Mission:Build.Protect.Innovate" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br /><br />
 
-  <!-- 4. Interactive Shields & Badges -->
-  <img src="https://img.shields.io/badge/Minecraft-Creative_Builder-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft Builder"/>
-  <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-15803D?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
-  <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-052E16?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
-
-  <br/><br/>
-
-  <!-- 5. Interactive Buttons -->
-  <a href="https://NickXBT.github.io/resturant">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-55FF55?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/nikhilawadhwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nikhil24x5183@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- 6. Profile Views & Follower Telemetry connected to NickXBT -->
-  <img src="https://komarev.com/ghpvc/?username=NickXBT&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/NickXBT?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/NickXBT?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
+  <!-- Stealth Mode Badges -->
+  <img src="https://img.shields.io/badge/Degree-B.Tech_ECE_%40_NMIET-000000?style=for-the-badge&logo=academic-tree&logoColor=55FF55" alt="Degree"/>
+  <img src="https://img.shields.io/badge/CGPA-8.64%2F10.0-000000?style=for-the-badge&logo=award&logoColor=22C55E" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Role-AI_Agent_Developer-000000?style=for-the-badge&logo=robot&logoColor=55FF55" alt="Role"/>
+  <img src="https://img.shields.io/badge/Security-100%2F100-000000?style=for-the-badge&logo=shield&logoColor=10B981" alt="Security"/>
 
 </div>
 
-<br/>
+<br />
 
-<!-- Animated Section Divider Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D&height=90&section=header" width="100%" alt="Waving Divider"/>
+### `>_ System.Identity`
+
+```bash
+root@nick-xbt:~$ whoami
+> An ECE Student & AI Developer operating at the intersection of bits, silicon, and autonomous agents.
+> I design secure AI platforms (ScanShield & VibeShield) and build intelligent robotics systems.
+> Mission: Build autonomous systems that adapt, protect, and innovate.
+```
 
 ---
 
-## 🛠️ Languages & Tech Stack
+### `>_ The Arsenal // Tech Stack`
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-944_KB-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-755_KB-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-572_KB-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/TypeScript-213_KB-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/CSS3-113_KB-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**`>_ LANGUAGES`**<br>
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3670A0)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+<br>
+
+**`>_ FRAMEWORKS & PLATFORMS`**<br>
+![NodeJS](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br>
+
+**`>_ TOOLS & HARDWARE`**<br>
+![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/JETSON_NANO-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
 
 <br/>
 
@@ -77,6 +85,10 @@
     <img src="https://skillicons.dev/icons?i=js,python,html,css,ts,cpp,nodejs,express,postgres,docker,vercel,git,github,arduino&theme=dark" alt="Skill Icons Matrix"/>
   </a>
 </p>
+
+<!-- Quote Widget -->
+<br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 </div>
 
@@ -89,7 +101,23 @@
 
 ---
 
-## 🐍 Animated Contribution Snake & Real-Time Stats
+### `>_ Mission Log / Featured Ops`
+
+<div align="center">
+
+| **OPERATION**      | **DEBRIEF**                                                                                                                                | **PROTOCOL**  |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :-----------: |
+| **[TRACE FINDERS]** | **AI Criminal Network Analysis (SIH Finalist)**<br>AI-powered criminal network analysis & evidence fusion system processing forensic data. | `AI` `Python` `Forensics` |
+| **[SCANSHIELD]**    | **AI Scam & Fraud Detection Platform**<br>Scans SMS, WhatsApp, emails, screenshots, URLs & documents to flag phishing & scam risks.          | `AI` `Security` `React` |
+| **[VIBESHIELD]**    | **AI Code Security Auditor (x402 PreHack)**<br>AI agent using Algorand HTTP 402 pay-per-use micropayments for on-chain NFT audit certs.    | `Web3` `Algorand` `AI` |
+| **[ECE ERP]**       | **Smart Department Academic ERP**<br>Digitizes timetables, certificate approvals & credit workflows with role-based dashboards.            | `FullStack` `NodeJS` |
+| **[SMARTMART]**     | **Queueless Self-Billing App**<br>Self-checkout retail app with customer portal & admin inventory pricing dashboard.                        | `Mobile` `JavaScript` |
+
+</div>
+
+---
+
+### `>_ Encrypted Data / Stats`
 
 <div align="center">
 
@@ -98,91 +126,47 @@
 
   <br/><br/>
 
-  <!-- Dynamic GitHub Profile Stats Cards connected to NickXBT -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NickXBT&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  
+  <br><br>
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NickXBT&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NickXBT&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
     &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickXBT&theme=synthwave&hide_border=true&background=0d1117&ring=22c55e&fire=55ff55&currStreakLabel=55ff55" width="48%" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickXBT&theme=gotham&hide_border=false" width="48%" alt="Streak" />
   </p>
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickXBT&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
 ---
 
-## ⚡ Featured Projects & Repositories
-
-<details>
-<summary><b>🕵️ TRACE FINDERS — AI Criminal Network Analysis (SIH Finalist)</b></summary>
-<br/>
-AI-powered criminal network analysis & evidence fusion system engineered to process heterogeneous forensic data.
-<br/>
-📂 <b>Repository</b>: <a href="https://github.com/NickXBT/tracefinders">NickXBT/tracefinders</a>
-</details>
-
-<br/>
-
-<details>
-<summary><b>🛡️ ScanShield — AI Scam & Fraud Detection Platform</b></summary>
-<br/>
-Scans SMS, WhatsApp, emails, screenshots, URLs, and documents to flag phishing and scam risks.
-<br/>
-🔗 <b>Live Demo</b>: <a href="https://scamshield-ten-theta.vercel.app">scamshield-ten-theta.vercel.app</a>
-</details>
-
-<br/>
-
-<details>
-<summary><b>⚡ VibeShield — AI Code Security Auditor (x402 Global Challenge)</b></summary>
-<br/>
-AI agent built at x402 Global Challenge PreHack (Bengaluru) using Algorand HTTP 402 pay-per-use micropayments (~0.5 ALGO/scan) to issue on-chain NFT audit certificates.
-<br/>
-🔗 <b>Live Demo</b>: <a href="https://hackthonn-two.vercel.app">hackthonn-two.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/NickXBT/x402">NickXBT/x402</a>
-</details>
-
-<br/>
-
-<details>
-<summary><b>🏢 ECE Department ERP — Smart Academic Management System</b></summary>
-<br/>
-Digitizes timetables, certificate approvals, and credit workflows with role-based student/faculty dashboards.
-<br/>
-🔗 <b>Live Demo</b>: <a href="https://ece-campus-erp-8qn9.vercel.app">ece-campus-erp-8qn9.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/NickXBT/ece-campus-erp">NickXBT/ece-campus-erp</a>
-</details>
-
-<br/>
-
-<details>
-<summary><b>🛒 SmartMart — Queueless Self-Billing App</b></summary>
-<br/>
-Self-checkout retail app with customer portal & admin inventory pricing dashboard.
-<br/>
-📂 <b>Repository</b>: <a href="https://github.com/NickXBT/smartmart-self-billing-app">NickXBT/smartmart-self-billing-app</a>
-</details>
-
----
-
-## 🎯 Current Focus & Connect
-
-```yaml
-learning: "Minecraft Plugins, AI Agents, Data Structures & Algorithms, Drone Firmware"
-building: "ScanShield & VibeShield AI Security Systems"
-exploring: "ISRO Space Tech AI & Jetson Nano Autonomous Robotics"
-open_to: "AI / Robotics / Software Engineering Internships"
-```
+### `>_ Secure Uplink`
 
 <div align="center">
-
+  
+  <a href="https://linkedin.com/in/nikhilawadhwal" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:nikhil24x5183@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nikhil24x5183%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/nikhilawadhwal">
-    <img src="https://img.shields.io/badge/LinkedIn-nikhilawadhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/NickXBT">
-    <img src="https://img.shields.io/badge/GitHub-NickXBT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB_HQ-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://NickXBT.github.io/resturant">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=55FF55" alt="Portfolio" />
+  </a>
+
+<br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=NickXBT&label=SYSTEM%20VIEWS&color=00ff87&style=flat-square" alt="Profile Views" />
 
   <br/><br/>
 
