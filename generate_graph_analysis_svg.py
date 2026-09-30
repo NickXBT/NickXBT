@@ -1,0 +1,204 @@
+# -*- coding: utf-8 -*-
+"""
+Generate Cyber Graph Analysis & OpenClaw Animation SVG
+Self-contained, pure vector SVG animation with CSS keyframes.
+Renders an animated Cyber Graph Analysis dashboard with network nodes, 
+scanning lasers, live telemetry charts, and an OpenClaw Cyber Cat emblem.
+"""
+import os
+
+def generate_graph_svg():
+    svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 220" width="660" height="220">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
+      
+      .font-mono { font-family: 'Fira Code', monospace; }
+      .text-green { fill: #00ff87; }
+      .text-dim { fill: #8b949e; }
+      .text-blue { fill: #58a6ff; }
+      .text-white { fill: #f0f6fc; }
+      
+      /* Grid line pulse */
+      @keyframes gridPulse {
+        0%, 100% { opacity: 0.15; }
+        50% { opacity: 0.35; }
+      }
+      .grid-line { stroke: #238636; stroke-width: 1; opacity: 0.2; animation: gridPulse 4s indefinite ease-in-out; }
+      
+      /* Radar scanner sweep */
+      @keyframes radarSweep {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .radar-hand { transform-origin: 100px 110px; animation: radarSweep 6s linear infinite; }
+      
+      /* Graph line wave */
+      @keyframes graphWave {
+        0% { stroke-dashoffset: 600; }
+        50% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -600; }
+      }
+      .chart-line {
+        stroke: #00ff87;
+        stroke-width: 2.5;
+        fill: none;
+        stroke-dasharray: 600;
+        animation: graphWave 8s linear infinite;
+      }
+      
+      /* Pulse Node */
+      @keyframes nodePulse {
+        0%, 100% { r: 5; opacity: 0.6; }
+        50% { r: 8; opacity: 1; fill: #55ff55; }
+      }
+      .pulse-node { animation: nodePulse 2.5s infinite ease-in-out; }
+      .node-1 { animation-delay: 0s; }
+      .node-2 { animation-delay: 0.6s; }
+      .node-3 { animation-delay: 1.2s; }
+      .node-4 { animation-delay: 1.8s; }
+      
+      /* Bar chart height animation */
+      @keyframes barGrow1 { 0%, 100% { height: 35px; y: 135px; } 50% { height: 65px; y: 105px; } }
+      @keyframes barGrow2 { 0%, 100% { height: 55px; y: 115px; } 50% { height: 30px; y: 140px; } }
+      @keyframes barGrow3 { 0%, 100% { height: 75px; y: 95px; }  50% { height: 45px; y: 125px; } }
+      @keyframes barGrow4 { 0%, 100% { height: 40px; y: 130px; } 50% { height: 70px; y: 100px; } }
+      
+      .bar-1 { animation: barGrow1 3s infinite ease-in-out; }
+      .bar-2 { animation: barGrow2 3.5s infinite ease-in-out; }
+      .bar-3 { animation: barGrow3 2.8s infinite ease-in-out; }
+      .bar-4 { animation: barGrow4 3.2s infinite ease-in-out; }
+      
+      /* Cat Claw Scanner Eye */
+      @keyframes catEyeGlow {
+        0%, 100% { fill: #00ff87; filter: drop-shadow(0 0 2px #00ff87); }
+        50% { fill: #58a6ff; filter: drop-shadow(0 0 6px #58a6ff); }
+      }
+      .cat-eye { animation: catEyeGlow 3s infinite ease-in-out; }
+      
+      /* Scanning beam */
+      @keyframes laserScan {
+        0%, 100% { y1: 40; y2: 40; opacity: 0; }
+        50% { y1: 180; y2: 180; opacity: 0.7; }
+      }
+      .laser-line { stroke: #ff7b72; stroke-width: 1.5; animation: laserScan 4s ease-in-out infinite; }
+    </style>
+    
+    <linearGradient id="chartGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ff87" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00ff87" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="5" y="5" width="650" height="210" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  
+  <!-- Header Bar -->
+  <rect x="5" y="5" width="650" height="32" rx="10" ry="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+  <rect x="6" y="24" width="648" height="13" fill="#161b22" />
+  
+  <!-- Status Lights -->
+  <circle cx="24" cy="21" r="5" fill="#ff5f56" />
+  <circle cx="40" cy="21" r="5" fill="#ffbd2e" />
+  <circle cx="56" cy="21" r="5" fill="#27c93f" />
+  <text x="330" y="25" class="font-mono text-dim" font-size="11" font-weight="700" text-anchor="middle">OpenClaw ~ Graph Analysis &amp; Neural Telemetry Engine</text>
+
+  <!-- Grid Background -->
+  <line x1="30" y1="70" x2="630" y2="70" class="grid-line" />
+  <line x1="30" y1="110" x2="630" y2="110" class="grid-line" />
+  <line x1="30" y1="150" x2="630" y2="150" class="grid-line" />
+  <line x1="30" y1="190" x2="630" y2="190" class="grid-line" />
+  
+  <line x1="180" y1="45" x2="180" y2="205" class="grid-line" />
+  <line x1="330" y1="45" x2="330" y2="205" class="grid-line" />
+  <line x1="480" y1="45" x2="480" y2="205" class="grid-line" />
+
+  <!-- SECTION 1: OpenClaw Cyber Cat Radar (Left Side) -->
+  <g id="openclaw-cat">
+    <!-- Radar Background Rings -->
+    <circle cx="100" cy="120" r="55" fill="none" stroke="#238636" stroke-width="1" opacity="0.4" />
+    <circle cx="100" cy="120" r="38" fill="none" stroke="#238636" stroke-width="1" opacity="0.6" />
+    <circle cx="100" cy="120" r="20" fill="none" stroke="#00ff87" stroke-width="1" opacity="0.8" />
+    
+    <!-- Radar Sweeper -->
+    <g class="radar-hand">
+      <line x1="100" y1="120" x2="100" y2="65" stroke="#00ff87" stroke-width="2" opacity="0.8" />
+      <path d="M 100 120 L 100 65 A 55 55 0 0 1 138 81 Z" fill="#00ff87" opacity="0.15" />
+    </g>
+
+    <!-- OpenClaw Cat Silhouette / Vector Head -->
+    <!-- Ears -->
+    <polygon points="75,95 85,72 95,90" fill="#161b22" stroke="#00ff87" stroke-width="1.5" />
+    <polygon points="125,95 115,72 105,90" fill="#161b22" stroke="#00ff87" stroke-width="1.5" />
+    <!-- Inner Ears -->
+    <polygon points="78,92 85,77 92,88" fill="#238636" />
+    <polygon points="122,92 115,77 108,88" fill="#238636" />
+    <!-- Head Contour -->
+    <path d="M 78 95 Q 100 85 122 95 L 128 120 Q 100 142 72 120 Z" fill="#0d1117" stroke="#00ff87" stroke-width="1.5" />
+    <!-- Cat Glowing Eyes -->
+    <ellipse cx="88" cy="108" rx="5" ry="7" class="cat-eye" />
+    <ellipse cx="112" cy="108" rx="5" ry="7" class="cat-eye" />
+    <ellipse cx="88" cy="108" rx="2" ry="5" fill="#0d1117" />
+    <ellipse cx="112" cy="108" rx="2" ry="5" fill="#0d1117" />
+    <!-- Whiskers / Claws -->
+    <line x1="72" y1="114" x2="55" y2="110" stroke="#00ff87" stroke-width="1" />
+    <line x1="72" y1="118" x2="52" y2="120" stroke="#00ff87" stroke-width="1" />
+    <line x1="128" y1="114" x2="145" y2="110" stroke="#00ff87" stroke-width="1" />
+    <line x1="128" y1="118" x2="148" y2="120" stroke="#00ff87" stroke-width="1" />
+    <!-- Nose/Mouth -->
+    <polygon points="98,118 102,118 100,121" fill="#00ff87" />
+    
+    <text x="100" y="190" class="font-mono text-green" font-size="10" font-weight="700" text-anchor="middle">OPENCLAW CAT v2.4</text>
+  </g>
+
+  <!-- SECTION 2: Graph Analysis Telemetry (Center) -->
+  <g id="graph-analysis" transform="translate(185, 45)">
+    <text x="5" y="18" class="font-mono text-blue" font-size="11" font-weight="700">[+] GRAPH ANALYSIS TELEMETRY</text>
+    
+    <!-- Realtime Wave Area Fill -->
+    <path d="M 10 140 Q 60 70 120 110 T 230 80 T 290 120 L 290 150 L 10 150 Z" fill="url(#chartGrad)" />
+    
+    <!-- Animated Chart Line -->
+    <path d="M 10 140 Q 60 70 120 110 T 230 80 T 290 120" class="chart-line" />
+    
+    <!-- Pulse Network Nodes -->
+    <circle cx="10" cy="140" r="5" class="pulse-node node-1" fill="#00ff87" />
+    <circle cx="85" cy="88" r="5" class="pulse-node node-2" fill="#00ff87" />
+    <circle cx="165" cy="100" r="5" class="pulse-node node-3" fill="#00ff87" />
+    <circle cx="230" cy="80" r="5" class="pulse-node node-4" fill="#00ff87" />
+    
+    <!-- Live Metrics readout -->
+    <text x="10" y="40" class="font-mono text-dim" font-size="9">FPS: <tspan class="text-green">60</tspan></text>
+    <text x="75" y="40" class="font-mono text-dim" font-size="9">LATENCY: <tspan class="text-green">1.2ms</tspan></text>
+    <text x="165" y="40" class="font-mono text-dim" font-size="9">NODES: <tspan class="text-green">1,024</tspan></text>
+    <text x="240" y="40" class="font-mono text-dim" font-size="9">STATUS: <tspan class="text-green">ONLINE</tspan></text>
+  </g>
+
+  <!-- SECTION 3: Live Bar Metrics (Right Side) -->
+  <g id="bar-chart" transform="translate(500, 45)">
+    <text x="5" y="18" class="font-mono text-blue" font-size="11" font-weight="700">[+] SYSTEM LOAD</text>
+    
+    <!-- Animated Bars -->
+    <rect x="15" y="135" width="18" height="35" rx="3" fill="#238636" class="bar-1" />
+    <rect x="45" y="115" width="18" height="55" rx="3" fill="#00ff87" class="bar-2" />
+    <rect x="75" y="95" width="18" height="75" rx="3" fill="#58a6ff" class="bar-3" />
+    <rect x="105" y="130" width="18" height="40" rx="3" fill="#3fb950" class="bar-4" />
+    
+    <text x="24" y="185" class="font-mono text-dim" font-size="8" text-anchor="middle">AI</text>
+    <text x="54" y="185" class="font-mono text-dim" font-size="8" text-anchor="middle">ROB</text>
+    <text x="84" y="185" class="font-mono text-dim" font-size="8" text-anchor="middle">SEC</text>
+    <text x="114" y="185" class="font-mono text-dim" font-size="8" text-anchor="middle">NET</text>
+  </g>
+
+  <!-- Laser Scanning Beam overlay -->
+  <line x1="10" y1="40" x2="650" y2="40" class="laser-line" />
+
+</svg>"""
+
+    output_path = "graph_analysis_animation.svg"
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(svg_content)
+    print(f"Generated Graph Analysis & OpenClaw Cat SVG: {os.path.abspath(output_path)}")
+
+if __name__ == "__main__":
+    generate_graph_svg()

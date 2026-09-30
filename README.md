@@ -5,14 +5,10 @@
 
   <br/><br/>
 
-  <!-- 2. Minecraft Steve & Chrome Dino Walking Animation Row -->
-  <p align="center">
-    <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="220" alt="Minecraft Steve Walking Animation"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="Chrome Dinosaur Walking"/>
-  </p>
+  <!-- 2. OpenClaw Cat & Cyber Graph Analysis Animation (Native Self-Hosted SVG - Never Breaks!) -->
+  <img src="./graph_analysis_animation.svg" width="650" alt="OpenClaw Cat & Graph Analysis Animation" />
 
-  <br/>
+  <br/><br/>
 
   <!-- 3. Green Dynamic Typing SVG -->
   <a href="https://github.com/NickXBT">
@@ -21,7 +17,7 @@
 
   <br/><br/>
 
-  <!-- 4. Minecraft & Developer Badges -->
+  <!-- 4. Developer Badges -->
   <img src="https://img.shields.io/badge/Minecraft-Creative_Builder-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft Builder"/>
   <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-15803D?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
@@ -42,7 +38,7 @@
 
   <br/><br/>
 
-  <!-- 6. Profile Views & Follower Telemetry connected to NickXBT -->
+  <!-- 6. Profile Views & Follower Telemetry -->
   <img src="https://komarev.com/ghpvc/?username=NickXBT&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/NickXBT?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/NickXBT?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
@@ -80,9 +76,9 @@
 
 <br/>
 
-<!-- Animated Minecraft Creeper World GIF -->
+<!-- Animated Chrome Dinosaur Walking Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR1v8L44KjS62cM/giphy.gif" width="350" alt="Minecraft Creeper World Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140" alt="Chrome Dinosaur Walking Animation"/>
 </div>
 
 ---
