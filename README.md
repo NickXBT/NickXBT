@@ -47,9 +47,6 @@
 
 <br/>
 
-<!-- Emerald Waving Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D&height=90&section=header" width="100%" alt="Divider"/>
-
 ---
 
 ## 🛠️ Engineering Arsenal // Tech Stack
@@ -80,12 +77,12 @@
 
 <div align="center">
 
-  <!-- Animated Contribution Grid Snake connected to NickXBT -->
+  <!-- Animated Contribution Grid Snake (Full Emerald Green Palette) -->
   <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
 
   <br/><br/>
 
-  <!-- Dynamic GitHub Profile Stats Cards connected to NickXBT -->
+  <!-- Dynamic GitHub Profile Stats Cards in Emerald Green -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NickXBT&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
     &nbsp;
