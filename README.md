@@ -10,19 +10,14 @@
 
   <br/><br/>
 
-  <!-- 3. Animated Minecraft Steve & Chrome Dinosaur Runner SVG -->
-  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/minecraft_dino_animation.svg" width="650" alt="Minecraft Steve & Chrome Dinosaur Animation" />
-
-  <br/><br/>
-
-  <!-- 4. Green Dynamic Typing SVG -->
+  <!-- 3. Green Dynamic Typing SVG -->
   <a href="https://github.com/NickXBT">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+NickXBT+GitHub+Profile+Connected;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 5. Developer Badges -->
+  <!-- 4. Developer Badges -->
   <img src="https://img.shields.io/badge/Minecraft-Creative_Builder-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft Builder"/>
   <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-15803D?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
@@ -30,7 +25,7 @@
 
   <br/><br/>
 
-  <!-- 6. Interactive Buttons -->
+  <!-- 5. Interactive Buttons -->
   <a href="https://NickXBT.github.io/resturant">
     <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-55FF55?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
@@ -43,7 +38,7 @@
 
   <br/><br/>
 
-  <!-- 7. Profile Views & Follower Telemetry -->
+  <!-- 6. Profile Views & Follower Telemetry -->
   <img src="https://komarev.com/ghpvc/?username=NickXBT&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/NickXBT?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/NickXBT?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
