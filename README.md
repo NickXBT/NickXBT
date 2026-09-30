@@ -5,23 +5,23 @@
 
   <br/><br/>
 
-  <!-- 2. OpenClaw Cat & Cyber Graph Analysis Animation (Native Self-Hosted SVG) -->
-  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/graph_analysis_animation.svg" width="650" alt="OpenClaw Cat & Graph Analysis Animation" />
+  <!-- 2. Relatable AI Neural Telemetry & Graph Analysis Animation SVG -->
+  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/graph_analysis_animation.svg" width="650" alt="NickXBT AI Neural Telemetry Animation" />
 
   <br/><br/>
 
-  <!-- 3. Green Dynamic Typing SVG -->
+  <!-- 3. Dynamic Typing SVG -->
   <a href="https://github.com/NickXBT">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+NickXBT+GitHub+Profile+Connected;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+AI+Systems+Architect+%26+Full-Stack+Developer;%F0%9F%A4%96+Building+Autonomous+Robotics+%26+AI-Powered+Agents;%F0%9F%9B%A1%EF%B8%8F+SIH+Finalist+%7C+x402+Global+Challenge+Developer;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- 4. Developer Badges -->
-  <img src="https://img.shields.io/badge/Minecraft-Creative_Builder-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft Builder"/>
-  <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-15803D?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
   <img src="https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-052E16?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Role-AI_%26_Robotics_Engineer-22C55E?style=for-the-badge&logo=robot&logoColor=white" alt="Role"/>
+  <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-55FF55?style=for-the-badge&logo=github&logoColor=black" alt="17 Repos"/>
 
   <br/><br/>
 
@@ -47,12 +47,12 @@
 
 <br/>
 
-<!-- Minecraft Emerald Waving Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D&height=90&section=header" width="100%" alt="Minecraft Divider"/>
+<!-- Emerald Waving Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D&height=90&section=header" width="100%" alt="Divider"/>
 
 ---
 
-## 🛠️ Languages & Tech Stack
+## 🛠️ Engineering Arsenal // Tech Stack
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🐍 Minecraft Contribution Snake & Real-Time Stats
+## 🐍 Contribution Grid & Real-Time Telemetry
 
 <div align="center">
 
@@ -96,7 +96,7 @@
 
 ---
 
-## ⚡ Featured Projects & Repositories
+## ⚡ Featured Projects & Security Operations
 
 <details>
 <summary><b>🕵️ TRACE FINDERS — AI Criminal Network Analysis (SIH Finalist)</b></summary>
@@ -148,13 +148,13 @@ Self-checkout retail app with customer portal & admin inventory pricing dashboar
 
 ---
 
-## 🎯 Current Focus & Connect
+## 🎯 Active Directives // Current Focus
 
 ```yaml
-learning: "Minecraft Plugins, AI Agents, Data Structures & Algorithms, Drone Firmware"
-building: "ScanShield & VibeShield AI Security Systems"
-exploring: "ISRO Space Tech AI & Jetson Nano Autonomous Robotics"
-open_to: "AI / Robotics / Software Engineering Internships"
+learning: "AI Autonomous Agents, LLM Orchestration, Data Structures & Algorithms, Drone Firmware"
+building: "ScanShield AI Fraud Detection & VibeShield Web3 Code Security"
+exploring: "ISRO Space Tech AI & Jetson Nano Edge Robotics"
+open_to: "AI / Robotics / Software Engineering Internships & Collaborations"
 ```
 
 <div align="center">
