@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Generate Native Animated Crypto & Minecraft SVG
-Creates a self-contained SVG animation featuring:
-- Minecraft Pickaxe mining Bitcoin (BTC) & Ethereum (ETH) Blockchain Ore Blocks
-- Glowing BTC & ETH coins popping out of mined blocks
-- Live Crypto Telemetry Ticker ($BTC, $ETH, $SOL)
-- Minecraft Steve Crypto Miner & Pixel Blockchain Ground
-100% native vector SVG with CSS animations (never breaks on GitHub)
+Generate Native Animated Crypto & Minecraft SVG (Valid XML Fix)
+Ensures 100% valid XML compliance (no &nbsp;, standard unicode) so GitHub Camo parses and renders it cleanly!
 """
 import os
 
@@ -48,10 +43,10 @@ def generate_svg():
 
       /* Ticker Text Scroll */
       @keyframes tickerSlide {
-        0% { transform: translateX(450px); }
-        100% { transform: translateX(-450px); }
+        0% { transform: translateX(500px); }
+        100% { transform: translateX(-500px); }
       }
-      .ticker-wrap { animation: tickerSlide 12s linear infinite; }
+      .ticker-wrap { animation: tickerSlide 14s linear infinite; }
     </style>
     
     <!-- Bitcoin Gold Glow -->
@@ -75,17 +70,13 @@ def generate_svg():
   <rect x="6" y="22" width="648" height="12" fill="#161b22" />
 
   <!-- Ticker Content -->
-  <g clip-path="url(#ticker-clip)" transform="translate(0, 0)">
+  <g clip-path="url(#ticker-clip)">
     <clipPath id="ticker-clip">
       <rect x="20" y="8" width="620" height="22" />
     </clipPath>
     <g class="ticker-wrap">
       <text x="0" y="24" class="font-mono" font-size="11" font-weight="700" fill="#00ff87">
-        ⛏️ MINECRAFT BLOCKCHAIN MINER &nbsp; | &nbsp; 
-        <tspan fill="#f7931a">₿ BTC: $98,450 ▲ +5.8%</tspan> &nbsp; | &nbsp; 
-        <tspan fill="#627eea">Ξ ETH: $3,680 ▲ +8.4%</tspan> &nbsp; | &nbsp; 
-        <tspan fill="#14f195">◎ SOL: $245 ▲ +14.2%</tspan> &nbsp; | &nbsp; 
-        <tspan fill="#00ff87">BLOCK #874,920 MINED [PROOF-OF-WORK]</tspan>
+        MINECRAFT BLOCKCHAIN MINER  |  <tspan fill="#f7931a">BTC: $98,450 +5.8%</tspan>  |  <tspan fill="#627eea">ETH: $3,680 +8.4%</tspan>  |  <tspan fill="#14f195">SOL: $245 +14.2%</tspan>  |  <tspan fill="#00ff87">BLOCK #874,920 MINED [PROOF-OF-WORK]</tspan>
       </text>
     </g>
   </g>
@@ -100,7 +91,7 @@ def generate_svg():
   <g id="steve-miner" transform="translate(40, 45)">
     <!-- Steve Head -->
     <rect x="120" y="45" width="20" height="20" fill="#c0a080" />
-    <rect x="120" y="45" width="20" height="6" fill="#4a2e16" /> <!-- Hair -->
+    <rect x="120" y="45" width="20" height="6" fill="#4a2e16" />
     <!-- Eyes -->
     <rect x="123" y="54" width="4" height="3" fill="#ffffff" />
     <rect x="125" y="54" width="2" height="3" fill="#2b4c7e" />
@@ -146,11 +137,10 @@ def generate_svg():
       <polygon points="5,0 8,5 5,10 2,5" fill="#ffffff" />
     </g>
 
-    <!-- Floating ₿ Bitcoin Coin -->
+    <!-- Floating Bitcoin Coin -->
     <g class="btc-coin" transform="translate(10, -25)">
       <circle cx="18" cy="18" r="18" fill="url(#btcGrad)" stroke="#ffffff" stroke-width="1.5" />
-      <!-- ₿ Symbol -->
-      <text x="18" y="24" class="font-mono" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">₿</text>
+      <text x="18" y="24" class="font-mono" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">B</text>
     </g>
     <text x="27" y="105" class="font-mono" font-size="9" font-weight="700" fill="#f7931a" text-anchor="middle">BTC ORE</text>
   </g>
@@ -165,11 +155,10 @@ def generate_svg():
     <rect x="10" y="66" width="10" height="10" fill="#627eea" />
     <rect x="32" y="68" width="10" height="8" fill="#8a9ba8" />
 
-    <!-- Floating Ξ Ethereum Coin -->
+    <!-- Floating Ethereum Coin -->
     <g class="eth-coin" transform="translate(10, -25)">
       <circle cx="18" cy="18" r="18" fill="url(#ethGrad)" stroke="#ffffff" stroke-width="1.5" />
-      <!-- Ξ Symbol -->
-      <text x="18" y="24" class="font-mono" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">Ξ</text>
+      <text x="18" y="24" class="font-mono" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">E</text>
     </g>
     <text x="27" y="105" class="font-mono" font-size="9" font-weight="700" fill="#627eea" text-anchor="middle">ETH ORE</text>
   </g>
@@ -178,8 +167,8 @@ def generate_svg():
   <g id="crypto-chest" transform="translate(560, 80)">
     <!-- Chest Body -->
     <rect x="0" y="20" width="45" height="35" fill="#8b5a2b" stroke="#000000" stroke-width="2" rx="2" />
-    <rect x="0" y="20" width="45" height="10" fill="#a06d3b" /> <!-- Lid -->
-    <rect x="18" y="26" width="9" height="8" fill="#f7931a" stroke="#000000" stroke-width="1" /> <!-- Gold Latch -->
+    <rect x="0" y="20" width="45" height="10" fill="#a06d3b" />
+    <rect x="18" y="26" width="9" height="8" fill="#f7931a" stroke="#000000" stroke-width="1" />
     <text x="22" y="68" class="font-mono" font-size="9" font-weight="700" fill="#00ff87" text-anchor="middle">VAULT</text>
   </g>
 
@@ -188,7 +177,7 @@ def generate_svg():
     output_path = "crypto_minecraft_animation.svg"
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg_content)
-    print(f"Generated Minecraft Crypto Mining SVG: {os.path.abspath(output_path)}")
+    print(f"Generated XML-Compliant Minecraft Crypto Mining SVG: {os.path.abspath(output_path)}")
 
 if __name__ == "__main__":
     generate_svg()
