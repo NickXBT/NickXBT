@@ -1,16 +1,11 @@
 <div align="center">
 
-  <!-- 1. Waving Twinkling Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=200&section=header&text=NICK%20XBT&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
-
-  <br/><br/>
-
-  <!-- 2. Hacker Terminal Animation Showcase (NICK 3D Figlet Block Terminal) -->
+  <!-- 1. Hacker Terminal Animation Showcase (NICK 3D Figlet Block Terminal) -->
   <img src="./hello_terminal_animated.svg" width="620" alt="Hacker Terminal Animation NICK" />
 
   <br /><br />
 
-  <!-- 3. Terminal Style Typing SVG -->
+  <!-- 2. Terminal Style Typing SVG -->
   <a href="https://github.com/NickXBT">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=_System.Initialize(NickXBT);_Run.Protocol(AI_Agents_%2B_Robotics);_Activating.ScanShield_VibeShield...;_Mission:Build.Protect.Innovate" alt="Typing SVG" />
   </a>
@@ -156,10 +151,5 @@ root@nick-xbt:~$ whoami
 <br /><br />
 
   <img src="https://komarev.com/ghpvc/?username=NickXBT&label=SYSTEM%20VIEWS&color=00ff87&style=flat-square" alt="Profile Views" />
-
-  <br/><br/>
-
-  <!-- Footer Waving Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
