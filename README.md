@@ -5,8 +5,8 @@
 
   <br/><br/>
 
-  <!-- 2. Minecraft Crypto Mining & Blockchain Ticker SVG Animation -->
-  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/crypto_minecraft_animation.svg" width="650" alt="Minecraft Crypto Mining Animation" />
+  <!-- 2. OpenClaw Cat & Cyber Graph Analysis Animation (Native Self-Hosted SVG) -->
+  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/graph_analysis_animation.svg" width="650" alt="OpenClaw Cat & Graph Analysis Animation" />
 
   <br/><br/>
 
