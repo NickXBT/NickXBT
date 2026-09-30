@@ -5,8 +5,8 @@
 
   <br/><br/>
 
-  <!-- 2. OpenClaw Cat & Cyber Graph Analysis Animation (Native Self-Hosted SVG - Never Breaks!) -->
-  <img src="./graph_analysis_animation.svg" width="650" alt="OpenClaw Cat & Graph Analysis Animation" />
+  <!-- 2. Animated Minecraft Steve & Chrome Dinosaur Runner SVG (Native Self-Hosted SVG - Never Breaks!) -->
+  <img src="./minecraft_dino_animation.svg" width="650" alt="Minecraft Steve & Chrome Dinosaur Animation" />
 
   <br/><br/>
 
