@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Waving Twinkling Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=220&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=220&section=header&text=NICK%20XBT&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
 
@@ -17,8 +17,8 @@
   <br/>
 
   <!-- 3. Green Dynamic Typing SVG -->
-  <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+JavaScript+(944KB)+%7C+Python+(755KB)+%7C+TypeScript+(213KB);%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
+  <a href="https://github.com/NickXBT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+NickXBT+GitHub+Profile+Connected;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,7 +32,7 @@
   <br/><br/>
 
   <!-- 5. Interactive Buttons -->
-  <a href="https://nikhil24x5183-netizen.github.io/resturant">
+  <a href="https://NickXBT.github.io/resturant">
     <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-55FF55?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/nikhilawadhwal">
@@ -44,10 +44,10 @@
 
   <br/><br/>
 
-  <!-- 6. Profile Views & Follower Telemetry -->
-  <img src="https://komarev.com/ghpvc/?username=nikhil24x5183-netizen&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/nikhil24x5183-netizen?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/nikhil24x5183-netizen?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
+  <!-- 6. Profile Views & Follower Telemetry connected to NickXBT -->
+  <img src="https://komarev.com/ghpvc/?username=NickXBT&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/NickXBT?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/NickXBT?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
 
 </div>
 
@@ -93,16 +93,16 @@
 
 <div align="center">
 
-  <!-- Animated Contribution Grid Snake -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
+  <!-- Animated Contribution Grid Snake connected to NickXBT -->
+  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
 
   <br/><br/>
 
-  <!-- Dynamic GitHub Profile Stats Cards -->
+  <!-- Dynamic GitHub Profile Stats Cards connected to NickXBT -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nikhil24x5183-netizen&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NickXBT&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
     &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=22c55e&fire=55ff55&currStreakLabel=55ff55" width="48%" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickXBT&theme=synthwave&hide_border=true&background=0d1117&ring=22c55e&fire=55ff55&currStreakLabel=55ff55" width="48%" alt="Streak Stats"/>
   </p>
 
 </div>
@@ -116,7 +116,7 @@
 <br/>
 AI-powered criminal network analysis & evidence fusion system engineered to process heterogeneous forensic data.
 <br/>
-📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/tracefinders">nikhil24x5183-netizen/tracefinders</a>
+📂 <b>Repository</b>: <a href="https://github.com/NickXBT/tracefinders">NickXBT/tracefinders</a>
 </details>
 
 <br/>
@@ -136,7 +136,7 @@ Scans SMS, WhatsApp, emails, screenshots, URLs, and documents to flag phishing a
 <br/>
 AI agent built at x402 Global Challenge PreHack (Bengaluru) using Algorand HTTP 402 pay-per-use micropayments (~0.5 ALGO/scan) to issue on-chain NFT audit certificates.
 <br/>
-🔗 <b>Live Demo</b>: <a href="https://hackthonn-two.vercel.app">hackthonn-two.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/nikhil24x5183-netizen/x402">nikhil24x5183-netizen/x402</a>
+🔗 <b>Live Demo</b>: <a href="https://hackthonn-two.vercel.app">hackthonn-two.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/NickXBT/x402">NickXBT/x402</a>
 </details>
 
 <br/>
@@ -146,7 +146,7 @@ AI agent built at x402 Global Challenge PreHack (Bengaluru) using Algorand HTTP 
 <br/>
 Digitizes timetables, certificate approvals, and credit workflows with role-based student/faculty dashboards.
 <br/>
-🔗 <b>Live Demo</b>: <a href="https://ece-campus-erp-8qn9.vercel.app">ece-campus-erp-8qn9.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/nikhil24x5183-netizen/ece-campus-erp">nikhil24x5183-netizen/ece-campus-erp</a>
+🔗 <b>Live Demo</b>: <a href="https://ece-campus-erp-8qn9.vercel.app">ece-campus-erp-8qn9.vercel.app</a> | 📂 <b>Repo</b>: <a href="https://github.com/NickXBT/ece-campus-erp">NickXBT/ece-campus-erp</a>
 </details>
 
 <br/>
@@ -156,7 +156,7 @@ Digitizes timetables, certificate approvals, and credit workflows with role-base
 <br/>
 Self-checkout retail app with customer portal & admin inventory pricing dashboard.
 <br/>
-📂 <b>Repository</b>: <a href="https://github.com/nikhil24x5183-netizen/smartmart-self-billing-app">nikhil24x5183-netizen/smartmart-self-billing-app</a>
+📂 <b>Repository</b>: <a href="https://github.com/NickXBT/smartmart-self-billing-app">NickXBT/smartmart-self-billing-app</a>
 </details>
 
 ---
@@ -180,8 +180,8 @@ open_to: "AI / Robotics / Software Engineering Internships"
     <img src="https://img.shields.io/badge/LinkedIn-nikhilawadhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://img.shields.io/badge/GitHub-nikhil24x5183--netizen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/NickXBT">
+    <img src="https://img.shields.io/badge/GitHub-NickXBT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <br/><br/>
