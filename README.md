@@ -1,23 +1,29 @@
 <div align="center">
 
-  <!-- 1. Minecraft Emerald Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=220&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Minecraft%20World%20Builder%20%7C%20AI%20Agents%20%7C%20Robotics%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Minecraft Header Banner"/>
+  <!-- 1. Waving Twinkling Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=220&section=header&text=NIKHIL%20MUKESH%20AWADHWAL&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
 
-  <!-- 2. Animated Minecraft Steve Pixel GIF -->
-  <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="350" alt="Minecraft Steve Walking Animation"/>
+  <!-- 2. Connected Animation Row: Red Cat + Minecraft Steve + Chrome Dino -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3lsbWRidW1oYmxuYzRsMXh6NXhsd3UybHJldnN1eTNmdm9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="120" alt="Pixel Cat Animation"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="220" alt="Minecraft Steve Walking Animation"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="Chrome Dinosaur Walking"/>
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <!-- 3. Minecraft Green Typing SVG -->
+  <!-- 3. Green Dynamic Typing SVG -->
   <a href="https://github.com/nikhil24x5183-netizen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+JavaScript+(944KB)+%7C+Python+(755KB)+%7C+TypeScript+(213KB);%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Minecraft Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+JavaScript+(944KB)+%7C+Python+(755KB)+%7C+TypeScript+(213KB);%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 4. Minecraft & Developer Badges -->
+  <!-- 4. Interactive Shields & Badges -->
   <img src="https://img.shields.io/badge/Minecraft-Creative_Builder-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft Builder"/>
   <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-15803D?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
@@ -25,7 +31,7 @@
 
   <br/><br/>
 
-  <!-- 5. Interactive Action Buttons -->
+  <!-- 5. Interactive Buttons -->
   <a href="https://nikhil24x5183-netizen.github.io/resturant">
     <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-55FF55?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
@@ -38,7 +44,7 @@
 
   <br/><br/>
 
-  <!-- 6. Profile Views & Follower Badges -->
+  <!-- 6. Profile Views & Follower Telemetry -->
   <img src="https://komarev.com/ghpvc/?username=nikhil24x5183-netizen&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/nikhil24x5183-netizen?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/nikhil24x5183-netizen?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
@@ -47,8 +53,8 @@
 
 <br/>
 
-<!-- Minecraft Emerald Waving Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D&height=90&section=header" width="100%" alt="Minecraft Divider"/>
+<!-- Animated Section Divider Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D&height=90&section=header" width="100%" alt="Waving Divider"/>
 
 ---
 
@@ -83,7 +89,7 @@
 
 ---
 
-## 🐍 Minecraft Contribution Snake & Streak Telemetry
+## 🐍 Animated Contribution Snake & Real-Time Stats
 
 <div align="center">
 
@@ -92,8 +98,12 @@
 
   <br/><br/>
 
-  <!-- Reliable Synthwave Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=22c55e&fire=55ff55&currStreakLabel=55ff55" alt="Streak Stats" width="80%"/>
+  <!-- Dynamic GitHub Profile Stats Cards -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nikhil24x5183-netizen&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil24x5183-netizen&theme=synthwave&hide_border=true&background=0d1117&ring=22c55e&fire=55ff55&currStreakLabel=55ff55" width="48%" alt="Streak Stats"/>
+  </p>
 
 </div>
 
@@ -176,7 +186,7 @@ open_to: "AI / Robotics / Software Engineering Internships"
 
   <br/><br/>
 
-  <!-- Minecraft Emerald Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=100&section=footer" width="100%" alt="Minecraft Footer Banner"/>
+  <!-- Footer Waving Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
