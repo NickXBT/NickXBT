@@ -1,17 +1,17 @@
 <div align="center">
 
   <!-- 1. Hacker Terminal Animation Showcase (NICK 3D Figlet Block Terminal) -->
-  <img src="./hello_terminal_animated.svg" width="620" alt="Hacker Terminal Animation NICK" />
+  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/hello_terminal_animated.svg" width="620" alt="Hacker Terminal Animation NICK" />
 
   <br/><br/>
 
   <!-- 2. Minecraft Crypto Mining & Blockchain Ticker SVG Animation -->
-  <img src="./crypto_minecraft_animation.svg" width="650" alt="Minecraft Crypto Mining Animation" />
+  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/crypto_minecraft_animation.svg" width="650" alt="Minecraft Crypto Mining Animation" />
 
   <br/><br/>
 
   <!-- 3. Animated Minecraft Steve & Chrome Dinosaur Runner SVG -->
-  <img src="./minecraft_dino_animation.svg" width="650" alt="Minecraft Steve & Chrome Dinosaur Animation" />
+  <img src="https://raw.githubusercontent.com/NickXBT/NickXBT/main/minecraft_dino_animation.svg" width="650" alt="Minecraft Steve & Chrome Dinosaur Animation" />
 
   <br/><br/>
 
@@ -77,13 +77,6 @@
   </a>
 </p>
 
-</div>
-
-<br/>
-
-<!-- Minecraft Steve & Chrome Dino Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140" alt="Chrome Dinosaur Walking Animation"/>
 </div>
 
 ---
