@@ -3,39 +3,9 @@
   <!-- 1. Hacker Terminal Animation Showcase (NICK 3D Figlet Block Terminal) -->
   <img src="./hello_terminal_animated.svg" width="620" alt="Hacker Terminal Animation NICK" />
 
-  <br /><br />
+  <br/><br/>
 
-  <!-- 2. Terminal Style Typing SVG -->
-  <a href="https://github.com/NickXBT">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=_System.Initialize(NickXBT);_Run.Protocol(AI_Agents_%2B_Robotics);_Activating.ScanShield_VibeShield...;_Mission:Build.Protect.Innovate" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <!-- Stealth Badges -->
-  <img src="https://img.shields.io/badge/Degree-B.Tech_ECE_%40_NMIET-000000?style=for-the-badge&logo=academic-tree&logoColor=55FF55" alt="Degree"/>
-  <img src="https://img.shields.io/badge/CGPA-8.64%2F10.0-000000?style=for-the-badge&logo=award&logoColor=22C55E" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/Role-AI_Agent_Developer-000000?style=for-the-badge&logo=robot&logoColor=55FF55" alt="Role"/>
-  <img src="https://img.shields.io/badge/Security-100%2F100-000000?style=for-the-badge&logo=shield&logoColor=10B981" alt="Security"/>
-
-</div>
-
-<br />
-
-### `>_ System.Identity`
-
-```bash
-root@nick-xbt:~$ whoami
-> An ECE Student & AI Developer operating at the intersection of bits, silicon, and autonomous agents.
-> I design secure AI platforms (ScanShield & VibeShield) and build intelligent robotics systems.
-> Mission: Build autonomous systems that adapt, protect, and innovate.
-```
-
-<br/>
-
-<div align="center">
-
-  <!-- Minecraft Steve & Chrome Dino Animation Row -->
+  <!-- 2. Minecraft Steve & Chrome Dino Walking Animation Row -->
   <p align="center">
     <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="220" alt="Minecraft Steve Walking Animation"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +14,14 @@ root@nick-xbt:~$ whoami
 
   <br/>
 
-  <!-- Minecraft & Developer Badges -->
+  <!-- 3. Green Dynamic Typing SVG -->
+  <a href="https://github.com/NickXBT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=55FF55&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Minecraft+World+Builder+%26+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems+%26+Autonomous+Robotics;%F0%9F%93%88+NickXBT+GitHub+Profile+Connected;%F0%9F%9A%81+ECE+Student+@+NMIET+Pune+(CGPA+8.64)+%7C+ISRO+Participant" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 4. Minecraft & Developer Badges -->
   <img src="https://img.shields.io/badge/Minecraft-Creative_Builder-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft Builder"/>
   <img src="https://img.shields.io/badge/Repos-17%20Public%20Repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="17 Repos"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20ECE%20%40%20NMIET-15803D?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ECE Student"/>
@@ -52,7 +29,7 @@ root@nick-xbt:~$ whoami
 
   <br/><br/>
 
-  <!-- Interactive Action Buttons -->
+  <!-- 5. Interactive Buttons -->
   <a href="https://NickXBT.github.io/resturant">
     <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-55FF55?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
@@ -65,7 +42,7 @@ root@nick-xbt:~$ whoami
 
   <br/><br/>
 
-  <!-- Profile Views & Follower Telemetry connected to NickXBT -->
+  <!-- 6. Profile Views & Follower Telemetry connected to NickXBT -->
   <img src="https://komarev.com/ghpvc/?username=NickXBT&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/NickXBT?style=for-the-badge&color=15803d&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/NickXBT?style=for-the-badge&color=55ff55&labelColor=0d1117&logo=github" alt="Stars"/>
