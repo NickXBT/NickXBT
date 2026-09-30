@@ -1,34 +1,23 @@
 <div align="center">
 
-  <!-- Waving Twinkling Animated Header Banner -->
+  <!-- 1. Waving Twinkling Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55FF55,22C55E,15803D,052E16&height=200&section=header&text=NICK%20XBT&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Agents%20%7C%20Robotics%20%7C%20Minecraft%20World%20Builder%20%7C%20ECE%20Student&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
-  <!-- 1. Hacker Terminal Animation Showcase (Spells NICK in 3D Green Figlet Blocks) -->
+  <!-- 2. Hacker Terminal Animation Showcase (NICK 3D Figlet Block Terminal) -->
   <img src="./hello_terminal_animated.svg" width="620" alt="Hacker Terminal Animation NICK" />
 
   <br /><br />
 
-  <!-- Connected Animation Row: Red Cat + Minecraft Steve + Chrome Dino -->
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3lsbWRidW1oYmxuYzRsMXh6NXhsd3UybHJldnN1eTNmdm9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="110" alt="Pixel Cat Animation"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/12R2bKfxce5DAA/giphy.gif" width="200" alt="Minecraft Steve Walking Animation"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="110" alt="Chrome Dinosaur Walking"/>
-  </p>
-
-  <br />
-
-  <!-- 2. Typing SVG: Hacker Terminal Style (Green VT323 Font) -->
+  <!-- 3. Terminal Style Typing SVG -->
   <a href="https://github.com/NickXBT">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=_System.Initialize(NickXBT);_Run.Protocol(AI_Agents_%2B_Robotics);_Activating.ScanShield_VibeShield...;_Mission:Build.Protect.Innovate" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Stealth Mode Badges -->
+  <!-- Stealth Badges -->
   <img src="https://img.shields.io/badge/Degree-B.Tech_ECE_%40_NMIET-000000?style=for-the-badge&logo=academic-tree&logoColor=55FF55" alt="Degree"/>
   <img src="https://img.shields.io/badge/CGPA-8.64%2F10.0-000000?style=for-the-badge&logo=award&logoColor=22C55E" alt="CGPA"/>
   <img src="https://img.shields.io/badge/Role-AI_Agent_Developer-000000?style=for-the-badge&logo=robot&logoColor=55FF55" alt="Role"/>
@@ -46,6 +35,13 @@ root@nick-xbt:~$ whoami
 > I design secure AI platforms (ScanShield & VibeShield) and build intelligent robotics systems.
 > Mission: Build autonomous systems that adapt, protect, and innovate.
 ```
+
+<br/>
+
+<!-- Chrome Dinosaur Walking Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="Chrome Dinosaur Walking Animation"/>
+</div>
 
 ---
 
@@ -92,16 +88,9 @@ root@nick-xbt:~$ whoami
 
 </div>
 
-<br/>
-
-<!-- Animated Minecraft Creeper World GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l3vR1v8L44KjS62cM/giphy.gif" width="350" alt="Minecraft Creeper World Animation"/>
-</div>
-
 ---
 
-### `>_ Mission Log / Featured Ops`
+### `>_ Mission Log // Featured Ops`
 
 <div align="center">
 
